@@ -7,7 +7,7 @@
 
 - :office: Estagiário TI - ICL Aditivos e Ingredientes (06/2022 - Atualmente)
 
-- ⚡ Tenho 18 anos e atualmente estou estudando Java e Kotlin.<br>
+- ⚡ Tenho 18 anos e atualmente estou estudando Java e Spring.<br>
 
   
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusok&layout=compact&langs_count=7&theme=tokyonight"/><br>
