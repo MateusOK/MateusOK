@@ -8,6 +8,8 @@
 - :office: Estagiário TI - ICL Aditivos e Ingredientes (06/2022 - 05/2023)
 
 - 📜 Back-end Developer Intern - Compass.UOL (05/2023 - 11/2023)
+
+- 👨‍💻 Technology Assistant - Invillia (05/2024 - Atualmente)
   
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusok&layout=compact&langs_count=7&theme=tokyonight"/><br>
   
