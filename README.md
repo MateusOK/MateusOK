@@ -3,7 +3,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Mateus Ribeiro</h1>
 
 
-- :books: FATEC - Desenvolvimento de Software Multiplataforma - 6º Semestre (Cursando)
+- :books: FATEC - Desenvolvimento de Software Multiplataforma
 
 - :office: Estagiário TI - ICL Aditivos e Ingredientes (06/2022 - 05/2023)
 
