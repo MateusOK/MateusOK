@@ -36,7 +36,9 @@
           
 ## 🎓 Certifications
 <div style="display: inline_block">
+          <a href="https://www.credly.com/badges/439cfd47-7241-47bd-9778-b0d920db1564">
           <img align="center" alt="HTML" height="125" src="https://github.com/user-attachments/assets/100e1ef1-3cba-416e-991d-bdfdbfd9a609">
+          </a>
 </div>
 
 
